@@ -1,0 +1,19 @@
+.bkgd_white{
+    background-color: rgb(0, 0, 0);
+}
+
+.form
+{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.space-top {
+    margin-top: 5rem;
+}
+
+.footer
+{
+    text-align: center;
+}
